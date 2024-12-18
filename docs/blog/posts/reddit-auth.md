@@ -1,6 +1,7 @@
 ---
 date:
   created: 2024-12-18
+slug: reddit-auth
 tags:
   - reddit
   - authorization
