@@ -55,12 +55,9 @@ plugins:
 nav:
     - Home: index.md
     - Curriculum Vitae: curriculum-vitae.md
+    - Portfolio: portofolio.md
     - Blog:
         - blog/index.md
-
-# Additional CSS
-# extra_css:
-#   - stylesheets/extra.css
 
 # Additional configuration
 extra:
