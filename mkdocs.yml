@@ -44,6 +44,8 @@ theme:
 
 # Plugins
 plugins:
+  - tags:
+      enabled: true
   - blog:
       archive_date_format: MMMM yyyy
       blog_toc: true
