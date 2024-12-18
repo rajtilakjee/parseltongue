@@ -45,9 +45,6 @@ theme:
 # Plugins
 plugins:
   - blog:
-      post_slugify: !!python/object/apply:ext.slugs.slugify
-        kwds:
-          short: true
       archive_date_format: MMMM yyyy
       blog_toc: true
   - tags:

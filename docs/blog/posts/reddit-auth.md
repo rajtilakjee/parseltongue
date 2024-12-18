@@ -4,7 +4,6 @@ date:
 tags:
   - reddit
   - authorization
-slug: reddit-auth
 ---
 
 # Implementing Reddit Auth for Flask App
