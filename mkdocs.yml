@@ -15,6 +15,7 @@ copyright: Copyright &copy; 2024 Rajtilak Bhattacharjee
 # Configuration
 theme:
   name: material
+  custom_dir: overrides
   palette:
     primary: indigo
   features:
