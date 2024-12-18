@@ -55,7 +55,7 @@ plugins:
 nav:
     - Home: index.md
     - Curriculum Vitae: curriculum-vitae.md
-    - Portfolio: portofolio.md
+    - Portfolio: portfolio.md
     - Blog:
         - blog/index.md
 
