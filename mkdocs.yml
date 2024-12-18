@@ -47,15 +47,12 @@ plugins:
   - blog:
       archive_date_format: MMMM yyyy
       blog_toc: true
-  - tags:
-      tags_file: blog/tags.md
 
 # Navigation
 nav:
     - Home: index.md
     - Blog:
         - blog/index.md
-        Tags: blog/tags.md
 
 # Additional CSS
 # extra_css:
