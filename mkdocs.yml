@@ -44,6 +44,7 @@ theme:
 
 # Plugins
 plugins:
+  - search
   - tags:
       enabled: true
   - blog:
@@ -53,6 +54,7 @@ plugins:
 # Navigation
 nav:
     - Home: index.md
+    - Curriculum Vitae: curriculum-vitae.md
     - Blog:
         - blog/index.md
 
